@@ -22,3 +22,13 @@ This exploratory investigation uses one model seed, previously exposed examples,
 
 ## Relationship to Existing Research
 This experiment extends the Register Feature Family project by introducing mechanistic interpretability methods to investigate register-generalization failures.
+
+## Parent Research Project
+
+This exploratory mechanistic investigation builds on:
+
+**[Register Is a Feature Family, Not a Dial?](https://github.com/Rinetta1981/register-feature-family)**
+
+The original study identified failures in generalizing linguistic-register combinations. This follow-up investigates how interventions on internal activations affect model predictions.
+
+The findings are exploratory and do not constitute confirmatory evidence of register-specific internal mechanisms.
