@@ -1,0 +1,5 @@
+layer,component,targeted_change,sham_change,different_donor_change,different_donor_prediction
+0,attention,12.416,0.0,-7.896,rume
+0,mlp,4.903,0.0,-0.96,rume
+1,attention,6.41,0.0,-4.77,rume
+1,mlp,7.133,0.0,-4.538,rume
